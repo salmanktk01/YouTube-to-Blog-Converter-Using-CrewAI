@@ -1,0 +1,8 @@
+packaging==24.2
+onnxruntime==1.22.0
+langchain-core==0.3.68
+crewai==0.141.0
+crewai-tools
+langchain-groq
+python-dotenv
+streamlit
